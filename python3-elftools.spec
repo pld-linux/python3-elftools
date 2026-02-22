@@ -5,7 +5,7 @@
 %define 	module	elftools
 Summary:	Pure-Python library for parsing and analyzing ELF files
 Summary(pl.UTF-8):	Czysto pythonowa biblioteka do analizy plików ELF
-Name:		python-%{module}
+Name:		python3-%{module}
 Version:	0.32
 Release:	1
 License:	public domain
